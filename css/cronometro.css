@@ -1,0 +1,19 @@
+#contenedor{
+	background: linear-gradient(to right top, fuchsia, cyan);
+	border: solid 2px fuchsia;
+	border-radius: 150px 150px;
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
+}
+h1, h2{
+	text-align: center;
+}
+button{
+	
+}
+#botones{
+	margin: 0 auto;
+	width: 125px;
+	height: 20px;
+}
